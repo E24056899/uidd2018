@@ -1,44 +1,132 @@
-<style type="text/css">
-#sitebody{
-  width:600px;
-  margin:0 auto;
-  font-size:13px;
+body{
+  background-image:url("https://luffy.ee.ncku.edu.tw/~E24056899/picture/living_room.jpg");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
 }
-#header{
-  background-color:#FFD4D4;
-  height:80px;
-  text-align:center;
-  line-height:80px;
-}
-#sidebar_left{
-  background-color:#FFECC9;
-  width:120px;
-  height:400px;
-  text-align:center;
-  line-height:400px;
-  float:left;
-}
-#sidebar_right{
-  background-color:#FFECC9;
-  width:120px;
-  height:400px;
-  text-align:center;
-  line-height:400px;
-  float:right;
-}
+
 #content{
-  margin-left:120px;
-  margin-right:120px;
-  height:400px;
-  background-color:#F2FFF2;
-  text-align:center;
-  line-height:400px;
+  width:1000px;
+  height:520px;
+  display:inline-block;
+  vertical-align:center;
+  background-image:url("https://luffy.ee.ncku.edu.tw/~E24056899/picture/middle_back.jpg");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:150px;
+  margin-top:60px;
 }
-#footer{
-  clear:both;
-  background-color:#FFD4D4;
-  hheight:80px;
+
+#content #center{
+ }
+#content #center #middle{
+  width:200px;
+  height:200px;
+  display:inline-block;
+  vertical-align:center;
+  background-image:url("http://luffy.ee.ncku.edu.tw/~E24056899/picture/singer.png");
+  background-position:center top;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:400px;
+  margin-top:100px;
+  font-size:200%;
   text-align:center;
-  line-height:80px;
+  line-height:500px;
 }
-</style>
+#content #center #left1{
+  width:70px;
+  height:70px;
+  display:inline-block;
+  vertical-align:center;
+  background-image:url("https://luffy.ee.ncku.edu.tw/~E24056899/picture/person.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:-550px;
+  margin-top:120px;
+  position:absolute;
+  text-align:right;
+  font-size:150%;
+  color:#805300;
+}
+#content #center #left2{
+  width:70px;
+  height:70px;
+  display:inline-block;
+  vertical-align:center;
+  background-image:url("https://luffy.ee.ncku.edu.tw/~E24056899/picture/person.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:-550px;
+  margin-top:220px;
+  position:absolute;
+}
+#content #center #left3{
+  width:70px;
+  height:70px;
+  display:inline-block;
+  vertical-align:center;
+  background-image:url("http://luffy.ee.ncku.edu.tw/~E24056899/picture/person.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:-550px;
+  margin-top:320px;
+  position:absolute;
+}
+
+#content #center #right1{
+  width:70px;
+  height:70px;
+  display:inline-block;
+  vertical-align:center;
+  background-image:url("https://luffy.ee.ncku.edu.tw/~E24056899/picture/book.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:180px;
+  margin-top:130px;
+  position:absolute;
+}
+#content #center #right2{
+  width:70px;
+  height:70px;
+  display:inline-block;
+  vertical-align:center;
+  background-image:url("https://luffy.ee.ncku.edu.tw/~E24056899/picture/player.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:180px;
+  margin-top:210px;
+  position:absolute;
+}
+#content #center #right3{
+  width:70px;
+  height:70px;
+  display:inline-block;
+  vertical-align:center;
+  background-image:url("https://luffy.ee.ncku.edu.tw/~E24056899/picture/food.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:180px;
+  margin-top:290px;
+  position:absolute;
+}
+#content #center #right4{
+  width:70px;
+  height:70px;
+  display:inline-block;
+  vertical-align:center;
+  background-image:url("https://luffy.ee.ncku.edu.tw/~E24056899/picture/sports.png");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  margin-left:180px;
+  margin-top:370px;
+  position:absolute;
+}
